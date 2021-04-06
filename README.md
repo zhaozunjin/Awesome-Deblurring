@@ -115,6 +115,7 @@
 |2019|BMVC|[Blind image deconvolution using deep generative priors](https://arxiv.org/abs/1802.04073)||
 |2019|ACMMM|[Tell Me Where It is Still Blurry: Adversarial Blurred Region Mining and Refining](https://www.iis.sinica.edu.tw/papers/liutyng/22871-F.pdf)||
 |2019|IJCV|[Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement](https://arxiv.org/abs/1811.09019)|[Code](https://github.com/TAMU-VITA/DeblurGANv2)|
+|2019|Arxiv|[Neural Blind Deconvolution Using Deep Priors](https://arxiv.org/abs/1908.02197v2)|[Code](https://github.com/csdwren/SelfDeblur)|
 |2020|AAAI|[Learning to Deblur Face Images via Sketch Synthesis](https://aaai.org/ojs/index.php/AAAI/article/view/6818/6672)||
 |2020|AAAI|[Region-Adaptive Dense Network for Efficient Motion Deblurring](https://arxiv.org/abs/1903.11394)||
 |2020|WACV|[DAVID: Dual-Attentional Video Deblurring](http://openaccess.thecvf.com/content_WACV_2020/html/Wu_DAVID_Dual-Attentional_Video_Deblurring_WACV_2020_paper.html)||
@@ -129,6 +130,7 @@
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
 |2020|TIP|[Dark and bright channel prior embedded network for dynamic scene deblurring](https://www4.comp.polyu.edu.hk/~cslzhang/paper/DBCPeNet_TIP.pdf)|[Code](https://github.com/csjcai/DBCPeNet)|
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
+|2020|IEEEAccess|[Improved Deep Multi-Patch Hierarchical Network with Nested Module for Dynamic Scene Deblurring](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050555&tag=1)|[Code](https://github.com/zhaozunjin/DMPHN-v2-Deblur)|
 |2020|ACCV|[Human Motion Deblurring using Localized Body Prior](https://openaccess.thecvf.com/content/ACCV2020/html/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.html)||
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
 |2020|Arxiv|[Blur Invariant Kernel-Adaptive Network for Single Image Blind deblurring](https://arxiv.org/abs/2007.04543)||
